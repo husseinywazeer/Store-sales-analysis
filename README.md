@@ -369,6 +369,6 @@ This project addresses questions such as:
 ```text
 store-sales-sql-analysis
 │
-├── retail_sales_analysis.sql
+├── store_sales_analysis.sql
 ├── README.md
 └── dataset
